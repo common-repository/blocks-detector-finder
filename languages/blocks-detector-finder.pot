@@ -1,0 +1,285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: blocks-detector-finder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-07 12:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-5.5\n"
+"X-Domain: blocks-detector-finder"
+
+#: application/views/bpdf_used_widgets/general.php:11
+#: application/views/bpdf_used_widgets/index.php:11
+msgid "All in General"
+msgstr ""
+
+#: application/views/bpdf/index.php:12
+#: application/views/bpdf_not_in_use/index.php:12
+#: application/views/bpdf_used_widgets/index.php:140
+msgid "Block Category"
+msgstr ""
+
+#: application/views/bpdf_used_missing/index.php:10
+msgid "Block key"
+msgstr ""
+
+#: application/views/bpdf/index.php:10
+#: application/views/bpdf_not_in_use/index.php:10
+#: application/views/bpdf_used_widgets/index.php:138
+msgid "Block Name"
+msgstr ""
+
+#: application/views/bpdf/index.php:11
+#: application/views/bpdf_not_in_use/index.php:11
+#: application/views/bpdf_used_widgets/index.php:139
+msgid "Block Title"
+msgstr ""
+
+#: admin/class-blocks-plugin-detector-finder-admin.php:149
+msgid "Blocks Detector"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/index.php:95
+msgid "Blocks not found"
+msgstr ""
+
+#: admin/class-blocks-plugin-detector-finder-admin.php:166
+#: admin/class-blocks-plugin-detector-finder-admin.php:167
+msgid "Blocks not in use"
+msgstr ""
+
+#: application/views/bpdf_not_in_use/index.php:5
+msgid "Blocks not used on posts/pages/templates"
+msgstr ""
+
+#: admin/class-blocks-plugin-detector-finder-admin.php:161
+#: admin/class-blocks-plugin-detector-finder-admin.php:162
+msgid "Blocks used"
+msgstr ""
+
+#: admin/class-blocks-plugin-detector-finder-admin.php:171
+#: admin/class-blocks-plugin-detector-finder-admin.php:172
+msgid "Blocks used but deactivated"
+msgstr ""
+
+#: application/views/bpdf_used_missing/index.php:5
+msgid "Blocks used on published posts/pages/templates but missing"
+msgstr ""
+
+#. Name of the plugin
+msgid "blocks-detector-finder"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Detect / Find Gutenberg Blocks used on pages, also detect not used Gutenberg "
+"Blocks or Missing Gutenberg Blocks."
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:70
+msgid "Edit in Elementor"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:69
+#: application/views/bpdf_used_widgets/index.php:127
+msgid "Edit Page"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/index.php:24
+msgid "EL Widget Categories"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:25
+msgid "EL Widget Category"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:28
+msgid "EL Widget Icon"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:27
+msgid "EL Widget Key"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:26
+msgid "EL Widget Name"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/index.php:30
+msgid "EL Widgets"
+msgstr ""
+
+#. Author of the plugin
+msgid "ElementInvader & FreelancersTools (Ivica Delić)"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:6
+msgid "Export CSV"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:80
+msgid "File name"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:19
+#: application/views/bpdf_used_widgets/index.php:62
+msgid "Filter"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:154
+#: application/views/bpdf_used_widgets/index.php:225
+msgid "Hide a bit..."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://elementdetector.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://elementinvader.com"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:79
+msgid "Image"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:53
+msgid "Images not found"
+msgstr ""
+
+#: admin/class-blocks-plugin-detector-finder-admin.php:156
+#: admin/class-blocks-plugin-detector-finder-admin.php:157
+#: application/views/bpdf/index.php:5
+msgid "Installed Blocks"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:83
+msgid "Messages"
+msgstr ""
+
+#: application/helpers/Basic.php:20
+msgid "Missing VIEW file: "
+msgstr ""
+
+#: application/views/bpdf/index.php:18
+#: application/views/bpdf_not_in_use/index.php:18
+#: application/views/bpdf_used_missing/index.php:15
+#: application/views/bpdf_used_widgets/general.php:85
+msgid "No data found."
+msgstr ""
+
+#: application/models/Settings_m.php:22
+msgid "Not Selected"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:10
+#: application/views/bpdf_used_widgets/index.php:10
+msgid "Per Page"
+msgstr ""
+
+#: application/views/bpdf/index.php:13
+#: application/views/bpdf_not_in_use/index.php:13
+#: application/views/bpdf_used_widgets/general.php:29
+#: application/views/bpdf_used_widgets/index.php:141
+msgid "Plugin"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/index.php:48
+msgid "Post types"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:16
+msgid "Posts/Page text filter criteria or ID"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:82
+msgid "Resolution"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:153
+#: application/views/bpdf_used_widgets/index.php:224
+msgid "Show all..."
+msgstr ""
+
+#: application/models/Settings_m.php:30
+msgid "Show Widget Name inside Elementor Editor on WIdget Mouseover"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:20
+msgid "Showing results based on 100 pages/posts analyse"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:81
+msgid "Size"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:41
+msgid ""
+"Some images if are not saved like urls in elementor structure will not be "
+"detected"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/index.php:59
+msgid "Text criteria"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:42
+msgid ""
+"Unusual image filename means thats not lowercase, contain spacing, untitled, "
+"copy, screenshot words, what is not good for SEO and looks unprofesional"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/index.php:5
+msgid "Used Blocks"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:5
+msgid "Used Elementor Widgets"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:17
+msgid "Used Elementor Widgets on website"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:5
+msgid "Used Images inside Elementor"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/index.php:129
+msgid "View page"
+msgstr ""
+
+#: application/views/bpdf_used_images/index.php:71
+msgid "View page and element positions"
+msgstr ""
+
+#: application/views/fields_edit/CHECKBOX.php:28
+msgid "Visible on"
+msgstr ""
+
+#: application/views/general/footer.php:62
+msgid ""
+"We constantly maintain compatibility and improving this plugin for living, "
+"please support us and purchase, we provide very reasonable prices and will "
+"always do our best to help you!"
+msgstr ""
+
+#: application/views/bpdf_used_widgets/general.php:59
+msgid "Widget missing"
+msgstr ""
+
+#: application/models/Settings_m.php:30
+msgid "Widget Name Inside Editor"
+msgstr ""
+
+#: application/views/general/footer.php:61
+msgid "Your version doesn't support this functionality, please upgrade"
+msgstr ""
